@@ -1,0 +1,738 @@
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAML_Inotify\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Model\XAML_intro\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAML_intro\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Structures.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Akit5.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Technology.Serialization.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Technology.Scripting.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Structures.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI\XAML_intro\bin\Debug\Tekla.Structures.Datatype.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Structures.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Akit5.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Technology.Serialization.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Technology.Scripting.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Structures.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\bin\Debug\Tekla.Structures.Datatype.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Structures.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Akit5.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Technology.Serialization.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Technology.Scripting.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Structures.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\bin\Debug\Tekla.Structures.Datatype.xml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\XAMLBALLI_graphics - Copy\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_2\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_3\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_4 - Copy\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_6 - Copy - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_7 - Copy\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_8\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_9 - Copy\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_10\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_11\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_12\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_13\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_14 - Copy\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_16\XAML_intro\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\PieControls.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_17\XAML_intro\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\PieControls.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_18\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\PieControls.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_19\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\PieControls.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_20\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\PieControls.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\XAMLBALLI_21\XAML_intro\obj\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\XAML_intro.exe.config
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\XAML_intro.pdb
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\PieControls.dll
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.cache
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro_MarkupCompile.lref
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.g.resources
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.Properties.Resources.resources
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.csproj.CopyComplete
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.exe
+C:\Users\User\Desktop\MVVM\Balli\Tekla_BBS_Tool\XAML_intro\obj\Debug\XAML_intro.pdb

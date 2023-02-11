@@ -1,0 +1,182 @@
+﻿<Window x:Class="XAML_intro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i = "http://schemas.microsoft.com/expression/2010/interactivity" 
+        xmlns:ei = "http://schemas.microsoft.com/expression/2010/interactions" 
+        xmlns:vm="clr-namespace:XAML_intro.ViewModel" 
+        xmlns:DV="clr-namespace:System.Windows.Controls.DataVisualization;assembly=DotNetProjects.DataVisualization.Toolkit"
+        xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=DotNetProjects.DataVisualization.Toolkit"
+        xmlns:pie="clr-namespace:PieControls;assembly=PieControls"
+        
+        
+        mc:Ignorable="d"
+        
+        Title="TEKLA_BBS_Script" Height="Auto" Width="800" Background="Beige" Foreground="Aqua" Topmost="True">
+
+
+    <Grid >
+        <TabControl>
+            <TabItem Width="85" Height="25" Header="BBS and Qyt" ToolTip="Quantities and BBS for a Single Part" >
+
+                <Grid RenderTransformOrigin="0.506,0.758" Background="Beige" >
+                    <!--<!DataContext="{Binding Source={StaticResource PersonViewModel}}">>-->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="155"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.6*"/>
+                        <ColumnDefinition Width="8.5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="Add Part" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top" Click="AddPartsToList" RenderTransformOrigin="0.509,-1.095" Margin="17,5,0,0" Width="75" Height="25" />
+                    <Button Content="Remove Part" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top" Click="RemovePartsFromList" RenderTransformOrigin="0.509,-1.095" Margin="17,35,0,0" Width="75" Height="25" />
+
+                    <Button Content="Update Quan" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top" Click="UpdateQuantities" RenderTransformOrigin="0.509,-1.095" Margin="17,65,0,0" Width="75" Height="25" />
+                    <Button Content="Units" Grid.Row="1" Grid.Column="0" Click="UpdateUnit"  Margin="57,95,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="35" Height="25"/>
+                    <Button x:Name="SelectAllPickedPartList" Content="Select All" Grid.Row="1" Grid.Column="0" Margin="17,125,27,5" Click="Select_SelectAllPickedPartList"  Width="75" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+                    <Label Content="Picked Parts" FontWeight="Medium" FontSize="20" Grid.Row="0" Grid.Column="1" Margin="8,1,12,1" ></Label>
+                    <TextBox x:Name="UnitTextBox" Grid.Row="1" Margin="17,95,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Height="25"/>
+                    <ListView x:Name="TeklaPartsListXAML" MaxWidth="400" HorizontalAlignment="Left" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" ItemsSource="{Binding TeklaPartsList}" Width="225" Grid.Row="1" Grid.Column="1" SelectionMode="Multiple"  Margin="13,5,0,5" >
+                        <ListView.View >
+                            <GridView ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" >
+                                <GridViewColumn Header="Part Name"  DisplayMemberBinding="{Binding TeklaPartName}"  Width="150"/>
+                                <GridViewColumn Header="Units"  DisplayMemberBinding="{Binding NumofUnit}"  Width="50"/>
+
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                    <StackPanel Grid.Row="2" Grid.Column="1" Margin="13,15,12,8">
+                        <Expander Header="Quantities For Selected Parts" IsExpanded="True" >
+                            <ListView x:Name="QuanListview" ItemsSource="{Binding SlectedPartQuantitiesList}" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" Height="Auto" MaxHeight="400" Width="Auto" SelectionMode="Multiple" SelectionChanged="QuanListview_SelectionChanged">
+                                <ListView.View>
+                                    <GridView ScrollViewer.CanContentScroll="True">
+                                        <GridViewColumn Header="Part" DisplayMemberBinding="{Binding PartName}"  Width="Auto" />
+                                        <GridViewColumn Header="Unit" DisplayMemberBinding="{Binding Unit}"  Width="Auto" />
+                                        <GridViewColumn Header="Grade" DisplayMemberBinding="{Binding Material}"  Width="Auto" />
+                                        <GridViewColumn Header="Weight[kg]" DisplayMemberBinding="{Binding Weight}"  Width="Auto" />
+                                        <GridViewColumn Header="Vol[m3]" DisplayMemberBinding="{Binding Volume}"  Width="Auto" />
+                                        <GridViewColumn Header="Rebar[kg]" DisplayMemberBinding="{Binding RebarWeight}"  Width="Auto" />
+                                        <GridViewColumn Header="6mm[kg]" DisplayMemberBinding="{Binding Rebar6mm}"  Width="Auto" />
+                                        <GridViewColumn Header="8mm[kg]" DisplayMemberBinding="{Binding Rebar8mm}"  Width="Auto" />
+                                        <GridViewColumn Header="10mm[kg]" DisplayMemberBinding="{Binding Rebar10mm}"  Width="Auto" />
+                                        <GridViewColumn Header="12mm[kg]" DisplayMemberBinding="{Binding Rebar12mm}"  Width="Auto" />
+                                        <GridViewColumn Header="16mm[kg]" DisplayMemberBinding="{Binding Rebar16mm}"  Width="Auto" />
+                                        <GridViewColumn Header="20mm[kg]" DisplayMemberBinding="{Binding Rebar20mm}"  Width="Auto" />
+                                        <GridViewColumn Header="25mm[kg]" DisplayMemberBinding="{Binding Rebar25mm}"  Width="Auto" />
+                                        <GridViewColumn Header="32mm[kg]" DisplayMemberBinding="{Binding Rebar32mm}"  Width="Auto" />
+                                        <GridViewColumn Header="36mm[kg]" DisplayMemberBinding="{Binding Rebar36mm}"  Width="Auto" />
+                                        <GridViewColumn Header="40mm[kg]" DisplayMemberBinding="{Binding Rebar40mm}"  Width="Auto" />
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </Expander>
+
+                        <Expander Header="Total Quantities" IsExpanded="True">
+                            <ListView ItemsSource="{Binding SelectedTotalQuantity}" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" Height="Auto" MaxHeight="400" Width="Auto">
+                                <ListView.View>
+                                    <GridView ScrollViewer.CanContentScroll="True">
+                                        <GridViewColumn Header="Weight[kg]" DisplayMemberBinding="{Binding Weight}"  Width="Auto" />
+                                        <GridViewColumn Header="Vol[m3]" DisplayMemberBinding="{Binding Volume}"  Width="Auto" />
+                                        <GridViewColumn Header="Rebar[kg]" DisplayMemberBinding="{Binding RebarWeight}"  Width="Auto" />
+                                        <GridViewColumn Header="6mm[kg]" DisplayMemberBinding="{Binding Rebar6mm}"  Width="Auto" />
+                                        <GridViewColumn Header="8mm[kg]" DisplayMemberBinding="{Binding Rebar8mm}"  Width="Auto" />
+                                        <GridViewColumn Header="10mm[kg]" DisplayMemberBinding="{Binding Rebar10mm}"  Width="Auto" />
+                                        <GridViewColumn Header="12mm[kg]" DisplayMemberBinding="{Binding Rebar12mm}"  Width="Auto" />
+                                        <GridViewColumn Header="16mm[kg]" DisplayMemberBinding="{Binding Rebar16mm}"  Width="Auto" />
+                                        <GridViewColumn Header="20mm[kg]" DisplayMemberBinding="{Binding Rebar20mm}"  Width="Auto" />
+                                        <GridViewColumn Header="25mm[kg]" DisplayMemberBinding="{Binding Rebar25mm}"  Width="Auto" />
+                                        <GridViewColumn Header="32mm[kg]" DisplayMemberBinding="{Binding Rebar32mm}"  Width="Auto" />
+                                        <GridViewColumn Header="36mm[kg]" DisplayMemberBinding="{Binding Rebar36mm}"  Width="Auto" />
+                                        <GridViewColumn Header="40mm[kg]" DisplayMemberBinding="{Binding Rebar40mm}"  Width="Auto" />
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </Expander>
+
+                        <Expander Header="BBS for Selected Parts" >
+                            <ListView x:Name="BBSListView" ItemsSource="{Binding SlectedPartRebarList}" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" Height="Auto" MaxHeight="250" Width="Auto" SelectionMode="Multiple" SelectionChanged="BBSListView_SelectionChanged">
+                                <ListView.View>
+                                    <GridView ScrollViewer.CanContentScroll="True">
+                                        <GridViewColumn Header="BarMark" DisplayMemberBinding="{Binding Position}"  Width="Auto" />
+                                        <GridViewColumn Header="Parent" DisplayMemberBinding="{Binding ParentName}"  Width="Auto" />
+                                        <GridViewColumn Header="Units" DisplayMemberBinding="{Binding NumofUnit}"  Width="Auto" />
+                                        <GridViewColumn Header="Num" DisplayMemberBinding="{Binding RebarNum}"  Width="Auto" />
+                                        <GridViewColumn Header="Shape" DisplayMemberBinding="{Binding Shape}"  Width="Auto" />
+                                        <GridViewColumn Header="Size" DisplayMemberBinding="{Binding Size}"  Width="Auto" />
+                                        <GridViewColumn Header="Len" DisplayMemberBinding="{Binding Length}"  Width="Auto" />
+                                        <GridViewColumn Header="A" DisplayMemberBinding="{Binding Dim_A}"  Width="Auto" />
+                                        <GridViewColumn Header="B" DisplayMemberBinding="{Binding Dim_B}"  Width="Auto" />
+                                        <GridViewColumn Header="C" DisplayMemberBinding="{Binding Dim_C}"  Width="Auto" />
+                                        <GridViewColumn Header="D" DisplayMemberBinding="{Binding Dim_D}"  Width="Auto" />
+                                        <GridViewColumn Header="E" DisplayMemberBinding="{Binding Dim_E}"  Width="Auto" />
+                                        <GridViewColumn Header="F" DisplayMemberBinding="{Binding Dim_F}"  Width="Auto" />
+                                        <GridViewColumn Header="G" DisplayMemberBinding="{Binding Dim_G}"  Width="Auto" />
+                                        <GridViewColumn Header="Weight" DisplayMemberBinding="{Binding TotalWeight}"  Width="Auto" />
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </Expander>
+
+                    </StackPanel>
+
+                    <StackPanel Grid.Row="2" Margin="0,10,0,0" Grid.RowSpan="5">
+                        <Label Content="Filters:" FontSize="11" Padding="0" MaxHeight="15" />
+                        <CheckBox x:Name="ActivateFilterCB" Click="ActivateFilterCB_Click" Content="Activate Filtering" FontSize="11" ></CheckBox>
+                        <Button x:Name="SelectAllPartButton" Click="SelectAllPartButton_Click" Content="Select All Parts" Height="25" Width="104" Margin="0,6,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <Button x:Name="SelectAllReinButton" Click="SelectAllReinButton_Click" Content="Select All Rein" Height="25" Width="104" Margin="0,6,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <TextBox x:Name="Notes" Text="Notes..." Grid.Column="1" HorizontalAlignment="Left" Height="145" Margin="253,0,0,0" AcceptsReturn="True" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="215"/>
+
+
+                </Grid>
+
+            </TabItem>
+
+            <TabItem Width="85" Height="25" Header="Visulisation" ToolTip="Quantities and BBS for a Single Part">
+                <Grid RenderTransformOrigin="0.506,0.758" Background="Beige" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel x:Name="s" Grid.Row="0" Grid.ColumnSpan="3">
+                        
+                        <Expander Header="Total Quantity">
+                            <WrapPanel Width="652">
+                                <pie:PieChart x:Name="TotalQuantChart" Width="360" Height="220" PieWidth="160" PieHeight="160"/>
+                                <TextBox x:Name="TotalQuantityTextBox" Width="226" Height="220" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True"></TextBox>
+                                <StackPanel Width="55" Margin="5,0,0,0">
+                                    <Label Content="Units:"></Label>
+                                    <RadioButton x:Name="RadioB1" Unchecked="RadioB1_Unchecked" Content="Kgs" GroupName="units" IsChecked="True"></RadioButton>
+                                    <RadioButton x:Name="RadioB2" Unchecked="RadioB2_Unchecked" Content="Tons" GroupName="units"></RadioButton>
+                                </StackPanel>
+                                <!--<ComboBox ItemsSource="{Binding SlectedPartQuantitiesList}" ></ComboBox>-->
+                            </WrapPanel>
+                        </Expander>
+                        <Expander Header="Selected Part Quantity">
+                            <WrapPanel>
+                                <pie:PieChart x:Name="SelectedQuantChart" Width="360" Height="220" PieWidth="160" PieHeight="160"/>
+                                <StackPanel>
+                                    <ComboBox x:Name="ComBoxSelected" SelectionChanged="ComBoxSelected_SelectionChanged" Height="20" VerticalAlignment="Top" Width="226" MaxDropDownHeight="200" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" ></ComboBox>
+                                    <TextBox x:Name="SelectedTextBox" Width="226" Height="220" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True"></TextBox>
+                                </StackPanel>
+                            </WrapPanel>
+                            </Expander>
+                    </StackPanel>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+
+</Window>
