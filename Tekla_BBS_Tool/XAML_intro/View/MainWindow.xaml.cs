@@ -28,7 +28,10 @@ namespace XAML_intro
 
             this.DataContext = new PartsViewModel();
 
-
+            // Hi, This code was written to test the functionality of WPF with the Tekla API.
+            // I acknowledge that the code lacks proper structure and does not follow basic programming
+            // practices due to my eagerness to see the results.
+            // I plan to update and improve the code as soon as I have the time.
 
         }
 
