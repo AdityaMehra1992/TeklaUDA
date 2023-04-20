@@ -22,11 +22,11 @@ dllPath += r"C:\Program Files\SOFiSTiK\2022\SOFiSTiK 2022"
 os.environ["Path"] = dllPath + ";" + path
 
 # Get the DLL functions
-myDLL = cdll.LoadLibrary("sof_cdb_w_edu-2022.dll")
-py_sof_cdb_get = cdll.LoadLibrary("sof_cdb_w_edu-2022.dll").sof_cdb_get
+myDLL = cdll.LoadLibrary("")
+py_sof_cdb_get = cdll.LoadLibrary("").sof_cdb_get
 py_sof_cdb_get.restype = c_int
 
-py_sof_cdb_kenq = cdll.LoadLibrary("sof_cdb_w_edu-2022.dll").sof_cdb_kenq_ex 
+py_sof_cdb_kenq = cdll.LoadLibrary("").sof_cdb_kenq_ex 
 #End Region
 ############################
 
